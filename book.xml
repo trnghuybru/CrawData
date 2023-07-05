@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<books>
+    <book>
+        <name>Thay Đổi Cuộc Sống Với Nhân Số Học</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Lê Đỗ Quỳnh Hương</tacgia>
+        <gia>173600.0</gia>
+    </book>
+    <book>
+        <name>Hiểu Về Trái Tim (Tái Bản 2023)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Minh Niệm</tacgia>
+        <gia>142200.0</gia>
+    </book>
+    <book>
+        <name>Vẻ Đẹp Của Sự Cô Đơn - Tặng Kèm Bookmark</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Phụ Nữ Việt Nam</nhaxuatban>
+        <tacgia>Giác Minh Luật</tacgia>
+        <gia>108000.0</gia>
+    </book>
+    <book>
+        <name>Hành Tinh Của Một Kẻ Nghĩ Nhiều</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Amateur Psychology Nguyễn Đoàn Minh Thư</tacgia>
+        <gia>68800.0</gia>
+    </book>
+    <book>
+        <name>Càng Bình Tĩnh Càng Hạnh Phúc</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Vãn Tình</tacgia>
+        <gia>111200.0</gia>
+    </book>
+    <book>
+        <name>Đắc Nhân Tâm (Tái Bản 2021)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Dale Carnegie</tacgia>
+        <gia>68800.0</gia>
+    </book>
+    <book>
+        <name>Khéo Ăn Nói Sẽ Có Được Thiên Hạ (Tái Bản 2022)</name>
+        <nhacungcap>Minh Long</nhacungcap>
+        <nhaxuatban>Văn Học</nhaxuatban>
+        <tacgia>Trác Nhã</tacgia>
+        <gia>91000.0</gia>
+    </book>
+    <book>
+        <name>Thuật Thao Túng - Góc Tối Ẩn Sau Mỗi Câu Nói</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Wladislaw Jachtchenko</tacgia>
+        <gia>97300.0</gia>
+    </book>
+    <book>
+        <name>Cùng Bạn Trưởng Thành</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Dân Trí</nhaxuatban>
+        <tacgia>Ying Shu</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Đời Ngắn Đừng Ngủ Dài (Tái Bản 2018)</name>
+        <nhacungcap>NXB Trẻ</nhacungcap>
+        <nhaxuatban>NXB Trẻ</nhaxuatban>
+        <tacgia>Robin Sharma</tacgia>
+        <gia>60000.0</gia>
+    </book>
+    <book>
+        <name>Tâm Lý Học Tội Phạm - Phác Họa Chân Dung Kẻ Phạm Tội</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thanh Niên</nhaxuatban>
+        <tacgia>Diệp Hồng Vũ</tacgia>
+        <gia>101500.0</gia>
+    </book>
+    <book>
+        <name>Bộ Sách Hiểu Về Trái Tim Và Không Diệt Không Sinh Đừng Sợ Hãi (Tái Bản 2023)</name>
+        <nhacungcap/>
+        <nhaxuatban>Bìa Mềm</nhaxuatban>
+        <tacgia>Minh Niệm, Thích Nhất Hạnh</tacgia>
+        <gia>219200.0</gia>
+    </book>
+    <book>
+        <name>Combo Sách Cùng Bạn Trưởng Thành + 999 Lá Thư Gửi Cho Chính Mình - Những Lá Thư Ấn Tượng Nhất (Phiên Bản Song Ngữ Trung - Việt) (Bộ 2 Cuốn)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban/>
+        <tacgia/>
+        <gia>127840.0</gia>
+    </book>
+    <book>
+        <name>Không Phải Sói Nhưng Cũng Đừng Là Cừu</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Lê Bảo Ngọc</tacgia>
+        <gia>102400.0</gia>
+    </book>
+    <book>
+        <name>Điềm Tĩnh Và Nóng Giận</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thanh Niên</nhaxuatban>
+        <tacgia>Tạ Quốc Kế</tacgia>
+        <gia>76800.0</gia>
+    </book>
+    <book>
+        <name>Rèn Luyện Tư Duy Phản Biện</name>
+        <nhacungcap>1980 Books</nhacungcap>
+        <nhaxuatban>NXB Phụ Nữ Việt Nam</nhaxuatban>
+        <tacgia>Albert Rutherford</tacgia>
+        <gia>69300.0</gia>
+    </book>
+    <book>
+        <name>Yêu Những Điều Không Hoàn Hảo</name>
+        <nhacungcap>Nhã Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Hae Min</tacgia>
+        <gia>111200.0</gia>
+    </book>
+    <book>
+        <name>Vị Thần Của Những Quyết Định - The Book Of Answers - Bản Bìa Đen</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>UNIVERSE</tacgia>
+        <gia>63200.0</gia>
+    </book>
+    <book>
+        <name>Đừng Lựa Chọn An Nhàn Khi Còn Trẻ (Tái Bản 2021)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Cảnh Thiên</tacgia>
+        <gia>79200.0</gia>
+    </book>
+    <book>
+        <name>Người Giàu Có Nhất Thành Babylon</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>George S Clason</tacgia>
+        <gia>78400.0</gia>
+    </book>
+    <book>
+        <name>Nóng Giận Là Bản Năng, Tĩnh Lặng Là Bản Lĩnh (Tái Bản 2020)</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Tống Mặc</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Cân Bằng Cảm Xúc, Cả Lúc Bão Giông (Tái Bản 2021)</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Richard Nicholls</tacgia>
+        <gia>84000.0</gia>
+    </book>
+    <book>
+        <name>Đọc Vị Bất Kỳ Ai (Tái Bản 2022)</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>Lao Động</nhaxuatban>
+        <tacgia>TS David J Lieberman</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Gieo Trồng Hạnh Phúc (Tái Bản 2021)</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>NXB Lao Động</nhaxuatban>
+        <tacgia>Thích Nhất Hạnh</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Thiên Tài Bên Trái, Kẻ Điên Bên Phải (Tái Bản 2021)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Cao Minh</tacgia>
+        <gia>125300.0</gia>
+    </book>
+    <book>
+        <name>Kiếp Nào Ta Cũng Tìm Thấy Nhau (Tái Bản 2022)</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>NXB Lao Động</nhaxuatban>
+        <tacgia>Brian L Weiss</tacgia>
+        <gia>69300.0</gia>
+    </book>
+    <book>
+        <name>Tuổi Trẻ Đáng Giá Bao Nhiêu (Tái Bản 2021)</name>
+        <nhacungcap>Nhã Nam</nhacungcap>
+        <nhaxuatban>NXB Hội Nhà Văn</nhaxuatban>
+        <tacgia>Rosie Nguyễn</tacgia>
+        <gia>72000.0</gia>
+    </book>
+    <book>
+        <name>Càng Kỷ Luật, Càng Tự Do</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Ca Tây</tacgia>
+        <gia>87200.0</gia>
+    </book>
+    <book>
+        <name>Vẻ Đẹp Của Sự Cô Đơn - Bản Đặc Biệt - Bìa Cứng</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Phụ Nữ Việt Nam</nhaxuatban>
+        <tacgia>Giác Minh Luật</tacgia>
+        <gia>160000.0</gia>
+    </book>
+    <book>
+        <name>Combo Sách Đắc Nhân Tâm + Khéo Ăn Nói Sẽ Có Được Thiên Hạ (Bộ 2 Cuốn) - Tái Bản</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>Bìa Mềm</nhaxuatban>
+        <tacgia>Dale Carnegie, Trác Nhã</tacgia>
+        <gia>158202.0</gia>
+    </book>
+    <book>
+        <name>Giận (Tái Bản 2023)</name>
+        <nhacungcap/>
+        <nhaxuatban>Bìa Mềm</nhaxuatban>
+        <tacgia>Thích Nhất Hạnh</tacgia>
+        <gia>108000.0</gia>
+    </book>
+    <book>
+        <name>Đứa Trẻ Hiểu Chuyện Thường Không Có Kẹo Ăn</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Văn Học</nhaxuatban>
+        <tacgia>Nguyên Anh</tacgia>
+        <gia>118400.0</gia>
+    </book>
+    <book>
+        <name>Đắc Nhân Tâm (Khổ Nhỏ) (Tái bản 2022)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Đại Học Quốc Gia TP.HCM</nhaxuatban>
+        <tacgia>Dale Carnegie</tacgia>
+        <gia>59160.0</gia>
+    </book>
+    <book>
+        <name>Sức Mạnh Tiềm Thức (Tái Bản 2021)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Joseph Murphyc</tacgia>
+        <gia>102400.0</gia>
+    </book>
+    <book>
+        <name>Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn</name>
+        <nhacungcap>1980 Books</nhacungcap>
+        <nhaxuatban>NXB Dân Trí</nhaxuatban>
+        <tacgia>Shannon Thomas, LCSW</tacgia>
+        <gia>118300.0</gia>
+    </book>
+    <book>
+        <name>Nói Chuyện Là Bản Năng, Giữ Miệng Là Tu Dưỡng, Im Lặng Là Trí Tuệ (Tái Bản)</name>
+        <nhacungcap>1980 Books</nhacungcap>
+        <nhaxuatban>Thanh Niên</nhaxuatban>
+        <tacgia>Trương Tiếu Hằng</tacgia>
+        <gia>151200.0</gia>
+    </book>
+    <book>
+        <name>Vị Thần Của Những Quyết Định - The Book Of Answers - Bản Bìa Hồng</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>UNIVERSE</tacgia>
+        <gia>71400.0</gia>
+    </book>
+    <book>
+        <name>Định Luật Murphy - Mọi Bí Mật Tâm Lý Thao Túng Cuộc Đời Bạn</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Từ Thính Phong</tacgia>
+        <gia>83300.0</gia>
+    </book>
+    <book>
+        <name>Sức Mạnh Của Ngôn Từ</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Don Gabor</tacgia>
+        <gia>86400.0</gia>
+    </book>
+    <book>
+        <name>Trí Tuệ Do Thái (Tái Bản 2022)</name>
+        <nhacungcap>Alpha Books</nhacungcap>
+        <nhaxuatban>Công Thương</nhaxuatban>
+        <tacgia>Eran Katz</tacgia>
+        <gia>151200.0</gia>
+    </book>
+    <book>
+        <name>Combo Sách Nóng Giận Là Bản Năng, Tĩnh Lặng Là Bản Lĩnh + Điềm Tĩnh &amp; Nóng Giận (Bộ 2 Cuốn)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Nhiều Nhà Xuất Bản</nhaxuatban>
+        <tacgia>Tống Mặc, Tạ Quốc Kế</tacgia>
+        <gia>148000.0</gia>
+    </book>
+    <book>
+        <name>Đàn Ông Sao Hỏa Đàn Bà Sao Kim</name>
+        <nhacungcap>MCBooks</nhacungcap>
+        <nhaxuatban>NXB Hồng Đức</nhaxuatban>
+        <tacgia>John Gray</tacgia>
+        <gia>150400.0</gia>
+    </book>
+    <book>
+        <name>OSHO - Yêu - Being In Love</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Dân Trí</nhaxuatban>
+        <tacgia>OSHO</tacgia>
+        <gia>142800.0</gia>
+    </book>
+    <book>
+        <name>Tâm - Sức Mạnh Khiến Cuộc Đời Như Mình Mong Muốn</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>Công Thương</nhaxuatban>
+        <tacgia>Inamori Kazuo</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>The Secret - The Magic - Phép Màu (Tái Bản)</name>
+        <nhacungcap/>
+        <nhaxuatban>Bìa Cứng</nhaxuatban>
+        <tacgia>Rhowa Byrne</tacgia>
+        <gia>158400.0</gia>
+    </book>
+    <book>
+        <name>Khí Chất Bao Nhiêu, Hạnh Phúc Bấy Nhiêu (Tái Bản 2022)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Vãn Tình</tacgia>
+        <gia>111200.0</gia>
+    </book>
+    <book>
+        <name>365 Lời Nhắn Từ Vãn Tình - 祝大家幸福如意! Chúc Các Bạn Hạnh Phúc Như Ý</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Vãn Tình, Ngọc Thủy</tacgia>
+        <gia>84150.0</gia>
+    </book>
+    <book>
+        <name>Tìm Bình Yên Trong Gia Đình (Tái Bản 2021)</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Thích Nhất Hạnh</tacgia>
+        <gia>79200.0</gia>
+    </book>
+    <book>
+        <name>Thay Đổi Cuộc Sống Với Nhân Số Học</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Lê Đỗ Quỳnh Hương</tacgia>
+        <gia>173600.0</gia>
+    </book>
+    <book>
+        <name>Hiểu Về Trái Tim (Tái Bản 2023)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Minh Niệm</tacgia>
+        <gia>142200.0</gia>
+    </book>
+    <book>
+        <name>Vẻ Đẹp Của Sự Cô Đơn - Tặng Kèm Bookmark</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Phụ Nữ Việt Nam</nhaxuatban>
+        <tacgia>Giác Minh Luật</tacgia>
+        <gia>108000.0</gia>
+    </book>
+    <book>
+        <name>Hành Tinh Của Một Kẻ Nghĩ Nhiều</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Amateur Psychology Nguyễn Đoàn Minh Thư</tacgia>
+        <gia>68800.0</gia>
+    </book>
+    <book>
+        <name>Càng Bình Tĩnh Càng Hạnh Phúc</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Vãn Tình</tacgia>
+        <gia>97300.0</gia>
+    </book>
+    <book>
+        <name>Khéo Ăn Nói Sẽ Có Được Thiên Hạ (Tái Bản 2022)</name>
+        <nhacungcap>Minh Long</nhacungcap>
+        <nhaxuatban>Văn Học</nhaxuatban>
+        <tacgia>Trác Nhã</tacgia>
+        <gia>91000.0</gia>
+    </book>
+    <book>
+        <name>Đắc Nhân Tâm (Tái Bản 2021)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Dale Carnegie</tacgia>
+        <gia>68800.0</gia>
+    </book>
+    <book>
+        <name>Cùng Bạn Trưởng Thành</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Dân Trí</nhaxuatban>
+        <tacgia>Ying Shu</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Combo Sách Cùng Bạn Trưởng Thành + 999 Lá Thư Gửi Cho Chính Mình - Những Lá Thư Ấn Tượng Nhất (Phiên Bản Song Ngữ Trung - Việt) (Bộ 2 Cuốn)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban/>
+        <tacgia/>
+        <gia>127840.0</gia>
+    </book>
+    <book>
+        <name>Thuật Thao Túng - Góc Tối Ẩn Sau Mỗi Câu Nói</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Wladislaw Jachtchenko</tacgia>
+        <gia>97300.0</gia>
+    </book>
+    <book>
+        <name>Tâm Lý Học Tội Phạm - Phác Họa Chân Dung Kẻ Phạm Tội</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thanh Niên</nhaxuatban>
+        <tacgia>Diệp Hồng Vũ</tacgia>
+        <gia>101500.0</gia>
+    </book>
+    <book>
+        <name>Không Phải Sói Nhưng Cũng Đừng Là Cừu</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Lê Bảo Ngọc</tacgia>
+        <gia>102400.0</gia>
+    </book>
+    <book>
+        <name>Đời Ngắn Đừng Ngủ Dài (Tái Bản 2018)</name>
+        <nhacungcap>NXB Trẻ</nhacungcap>
+        <nhaxuatban>NXB Trẻ</nhaxuatban>
+        <tacgia>Robin Sharma</tacgia>
+        <gia>60000.0</gia>
+    </book>
+    <book>
+        <name>Bộ Sách Hiểu Về Trái Tim Và Không Diệt Không Sinh Đừng Sợ Hãi (Tái Bản 2023)</name>
+        <nhacungcap/>
+        <nhaxuatban>Bìa Mềm</nhaxuatban>
+        <tacgia>Minh Niệm, Thích Nhất Hạnh</tacgia>
+        <gia>219200.0</gia>
+    </book>
+    <book>
+        <name>Điềm Tĩnh Và Nóng Giận</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thanh Niên</nhaxuatban>
+        <tacgia>Tạ Quốc Kế</tacgia>
+        <gia>76800.0</gia>
+    </book>
+    <book>
+        <name>Vị Thần Của Những Quyết Định - The Book Of Answers - Bản Bìa Đen</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>UNIVERSE</tacgia>
+        <gia>63200.0</gia>
+    </book>
+    <book>
+        <name>Combo Sách Đắc Nhân Tâm + Khéo Ăn Nói Sẽ Có Được Thiên Hạ (Bộ 2 Cuốn) - Tái Bản</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>Bìa Mềm</nhaxuatban>
+        <tacgia>Dale Carnegie, Trác Nhã</tacgia>
+        <gia>158202.0</gia>
+    </book>
+    <book>
+        <name>Đừng Lựa Chọn An Nhàn Khi Còn Trẻ (Tái Bản 2021)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Cảnh Thiên</tacgia>
+        <gia>79200.0</gia>
+    </book>
+    <book>
+        <name>Nóng Giận Là Bản Năng, Tĩnh Lặng Là Bản Lĩnh (Tái Bản 2020)</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Tống Mặc</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Giận (Tái Bản 2023)</name>
+        <nhacungcap/>
+        <nhaxuatban>Bìa Mềm</nhaxuatban>
+        <tacgia>Thích Nhất Hạnh</tacgia>
+        <gia>108000.0</gia>
+    </book>
+    <book>
+        <name>Yêu Những Điều Không Hoàn Hảo</name>
+        <nhacungcap>Nhã Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Hae Min</tacgia>
+        <gia>111200.0</gia>
+    </book>
+    <book>
+        <name>Thiên Tài Bên Trái, Kẻ Điên Bên Phải (Tái Bản 2021)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Cao Minh</tacgia>
+        <gia>125300.0</gia>
+    </book>
+    <book>
+        <name>Rèn Luyện Tư Duy Phản Biện</name>
+        <nhacungcap>1980 Books</nhacungcap>
+        <nhaxuatban>NXB Phụ Nữ Việt Nam</nhaxuatban>
+        <tacgia>Albert Rutherford</tacgia>
+        <gia>69300.0</gia>
+    </book>
+    <book>
+        <name>Đắc Nhân Tâm (Khổ Nhỏ) (Tái bản 2022)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Đại Học Quốc Gia TP.HCM</nhaxuatban>
+        <tacgia>Dale Carnegie</tacgia>
+        <gia>59160.0</gia>
+    </book>
+    <book>
+        <name>Người Giàu Có Nhất Thành Babylon</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>George S Clason</tacgia>
+        <gia>78400.0</gia>
+    </book>
+    <book>
+        <name>Vẻ Đẹp Của Sự Cô Đơn - Bản Đặc Biệt - Bìa Cứng</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Phụ Nữ Việt Nam</nhaxuatban>
+        <tacgia>Giác Minh Luật</tacgia>
+        <gia>160000.0</gia>
+    </book>
+    <book>
+        <name>Càng Kỷ Luật, Càng Tự Do</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Ca Tây</tacgia>
+        <gia>87200.0</gia>
+    </book>
+    <book>
+        <name>Kiếp Nào Ta Cũng Tìm Thấy Nhau (Tái Bản 2022)</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>NXB Lao Động</nhaxuatban>
+        <tacgia>Brian L Weiss</tacgia>
+        <gia>69300.0</gia>
+    </book>
+    <book>
+        <name>Gieo Trồng Hạnh Phúc (Tái Bản 2021)</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>NXB Lao Động</nhaxuatban>
+        <tacgia>Thích Nhất Hạnh</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Cân Bằng Cảm Xúc, Cả Lúc Bão Giông (Tái Bản 2021)</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Richard Nicholls</tacgia>
+        <gia>84000.0</gia>
+    </book>
+    <book>
+        <name>Tuổi Trẻ Đáng Giá Bao Nhiêu (Tái Bản 2021)</name>
+        <nhacungcap>Nhã Nam</nhacungcap>
+        <nhaxuatban>NXB Hội Nhà Văn</nhaxuatban>
+        <tacgia>Rosie Nguyễn</tacgia>
+        <gia>72000.0</gia>
+    </book>
+    <book>
+        <name>Nói Chuyện Là Bản Năng, Giữ Miệng Là Tu Dưỡng, Im Lặng Là Trí Tuệ (Tái Bản)</name>
+        <nhacungcap>1980 Books</nhacungcap>
+        <nhaxuatban>Thanh Niên</nhaxuatban>
+        <tacgia>Trương Tiếu Hằng</tacgia>
+        <gia>151200.0</gia>
+    </book>
+    <book>
+        <name>Sức Mạnh Tiềm Thức (Tái Bản 2021)</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Joseph Murphyc</tacgia>
+        <gia>102400.0</gia>
+    </book>
+    <book>
+        <name>Trí Thông Minh Của Sự Tinh Tế</name>
+        <nhacungcap>Skybooks</nhacungcap>
+        <nhaxuatban>Phụ Nữ Việt Nam</nhaxuatban>
+        <tacgia>Tô Mạn</tacgia>
+        <gia>75650.0</gia>
+    </book>
+    <book>
+        <name>Sức Mạnh Của Ngôn Từ</name>
+        <nhacungcap>FIRST NEWS</nhacungcap>
+        <nhaxuatban>NXB Tổng Hợp TPHCM</nhaxuatban>
+        <tacgia>Don Gabor</tacgia>
+        <gia>86400.0</gia>
+    </book>
+    <book>
+        <name>Đọc Vị Bất Kỳ Ai (Tái Bản 2022)</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>Lao Động</nhaxuatban>
+        <tacgia>TS David J Lieberman</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn</name>
+        <nhacungcap>1980 Books</nhacungcap>
+        <nhaxuatban>NXB Dân Trí</nhaxuatban>
+        <tacgia>Shannon Thomas, LCSW</tacgia>
+        <gia>118300.0</gia>
+    </book>
+    <book>
+        <name>Combo Sách Nóng Giận Là Bản Năng, Tĩnh Lặng Là Bản Lĩnh + Điềm Tĩnh &amp; Nóng Giận (Bộ 2 Cuốn)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Nhiều Nhà Xuất Bản</nhaxuatban>
+        <tacgia>Tống Mặc, Tạ Quốc Kế</tacgia>
+        <gia>148000.0</gia>
+    </book>
+    <book>
+        <name>Vị Thần Của Những Quyết Định - The Book Of Answers - Bản Bìa Hồng</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>UNIVERSE</tacgia>
+        <gia>71400.0</gia>
+    </book>
+    <book>
+        <name>Càng Mạnh Mẽ, Càng Dịu Dàng (Tái Bản 2020)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Phụ Nữ</nhaxuatban>
+        <tacgia>Lý Ái Linh</tacgia>
+        <gia>84150.0</gia>
+    </book>
+    <book>
+        <name>Định Luật Murphy - Mọi Bí Mật Tâm Lý Thao Túng Cuộc Đời Bạn</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Từ Thính Phong</tacgia>
+        <gia>83300.0</gia>
+    </book>
+    <book>
+        <name>Tâm - Sức Mạnh Khiến Cuộc Đời Như Mình Mong Muốn</name>
+        <nhacungcap>Thái Hà</nhacungcap>
+        <nhaxuatban>Công Thương</nhaxuatban>
+        <tacgia>Inamori Kazuo</tacgia>
+        <gia>71200.0</gia>
+    </book>
+    <book>
+        <name>Trí Tuệ Do Thái (Tái Bản 2022)</name>
+        <nhacungcap>Alpha Books</nhacungcap>
+        <nhaxuatban>Công Thương</nhaxuatban>
+        <tacgia>Eran Katz</tacgia>
+        <gia>151200.0</gia>
+    </book>
+    <book>
+        <name>The Secret - The Magic - Phép Màu (Tái Bản)</name>
+        <nhacungcap/>
+        <nhaxuatban>Bìa Cứng</nhaxuatban>
+        <tacgia>Rhowa Byrne</tacgia>
+        <gia>158400.0</gia>
+    </book>
+    <book>
+        <name>Khí Chất Bao Nhiêu, Hạnh Phúc Bấy Nhiêu (Tái Bản 2022)</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>NXB Thế Giới</nhaxuatban>
+        <tacgia>Vãn Tình</tacgia>
+        <gia>111200.0</gia>
+    </book>
+    <book>
+        <name>Cà Phê Cùng Tony (Tái Bản 2022)</name>
+        <nhacungcap>NXB Trẻ</nhacungcap>
+        <nhaxuatban>Trẻ</nhaxuatban>
+        <tacgia>Tony Buổi Sáng</tacgia>
+        <gia>84000.0</gia>
+    </book>
+    <book>
+        <name>Đại Dương Đen - Những Câu Chuyện Từ Thế Giới Của Trầm Cảm</name>
+        <nhacungcap>Nhã Nam</nhacungcap>
+        <nhaxuatban>NXB Hội Nhà Văn</nhaxuatban>
+        <tacgia>Đặng Hoàng Giang</tacgia>
+        <gia>204000.0</gia>
+    </book>
+    <book>
+        <name>365 Lời Nhắn Từ Vãn Tình - 祝大家幸福如意! Chúc Các Bạn Hạnh Phúc Như Ý</name>
+        <nhacungcap>AZ Việt Nam</nhacungcap>
+        <nhaxuatban>Thế Giới</nhaxuatban>
+        <tacgia>Vãn Tình, Ngọc Thủy</tacgia>
+        <gia>84150.0</gia>
+    </book>
+</books>
