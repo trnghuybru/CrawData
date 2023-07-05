@@ -65,6 +65,7 @@ public class Crawler {
 		Book book = new Book();
 		EcoBook sitEcoBook = new EcoBook(111, "Fahasa", "https://www.fahasa.com/sach-trong-nuoc/tam-ly-ky-nang-song.html");
 		double price;
+		
 		try {
 			Document document = Jsoup.connect(url).get();
 			
@@ -125,14 +126,12 @@ public class Crawler {
 				book.setLprice(price);
 				
 			}
-			
-			
-			
-			
+			Elements img = document.select("#image");
+			String imageUrl = img.attr("data-src");
 			
 			
 			ConnectDB.insertBook(book);
-			ConnectDB.insertBookSite(book, sitEcoBook , price);
+			ConnectDB.insertBookSite(book, sitEcoBook , price, imageUrl );
 			System.out.println(book);
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -226,6 +225,42 @@ public class Crawler {
 //		
 //	}
 	
+	public static void cleanDataBooksite() {
+		String sqlString = "DELETE FROM booksite "
+				+ "WHERE booksite.bookid NOT IN (SELECT MIN(booksite.bookid) "
+				+ "                 FROM booksite "
+				+ "                 GROUP BY siteid, price);";
+		try {
+			Connection connection = ConnectDB.getConnection();
+			Statement statement = connection.createStatement();
+			statement.executeUpdate(sqlString);
+			statement.close();
+			
+			connection.close();
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+	}
+	
+	public static  void cleanDataBook() {
+		String sqlString = "DELETE FROM book "
+				+ "WHERE book.bookid NOT IN (SELECT MIN(book.bookid) "
+				+ "                 FROM book "
+				+ "                 GROUP BY name, author,year, publisher,lprice);";
+		try {
+			Connection connection = ConnectDB.getConnection();
+			Statement statement = connection.createStatement();
+			statement.executeUpdate(sqlString);
+			statement.close();
+			
+			connection.close();
+		} catch (Exception e) {
+			// TODO: handle exception
+			e.printStackTrace();
+		}
+	}
+	
 	public static double convertVndToDouble(String vnd) {
 	    String[] parts = vnd.split(" ");
 	    String numberPart = parts[0];
@@ -241,6 +276,9 @@ public class Crawler {
 		}
 		
 		System.out.println("ok");
+		cleanDataBooksite();
+		cleanDataBook();
+		System.out.println("Done clean");
 	}
 	
 	public static int randomID() {

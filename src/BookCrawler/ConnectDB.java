@@ -40,13 +40,14 @@ public class ConnectDB {
 			e.printStackTrace();
 		}
 	}
-	public static void insertBookSite(Book book, EcoBook site, Double price) {
+	public static void insertBookSite(Book book, EcoBook site, Double price, String url) {
 		Connection connection = getConnection();
 		try {
-			PreparedStatement ps = connection.prepareStatement("insert into booksite (bookid , siteid, price) values (?,?,?)");
+			PreparedStatement ps = connection.prepareStatement("insert into booksite (bookid , siteid, price, url) values (?,?,?,?)");
 			ps.setInt(1, book.getBookid());
 			ps.setInt(2, site.getSiteid());
 			ps.setDouble(3, price );
+			ps.setString(4, url);
 			ps.executeUpdate();
 		} catch (Exception e) {
 			// TODO: handle exception
